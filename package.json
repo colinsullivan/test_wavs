@@ -1,0 +1,20 @@
+{
+  "name": "test_wavs",
+  "version": "1.0.0",
+  "description": "Test audio files for use as a submodule in audio-related projects.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/colinsullivan/test_wavs.git"
+  },
+  "keywords": [
+    "audio",
+    "wav",
+    "test"
+  ],
+  "author": "Colin Sullivan <colin [at] colin-sullivan.net>",
+  "license": "per-audio file basis (see README.md)",
+  "bugs": {
+    "url": "https://github.com/colinsullivan/test_wavs/issues"
+  },
+  "homepage": "https://github.com/colinsullivan/test_wavs"
+}
